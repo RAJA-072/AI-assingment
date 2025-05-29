@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/58641cf0-5a75-4c37-ba52-d18458e9cb6f
 
 ## 📌 Overview
 
-Raja Rajeswari R has developed three AI-driven applications as part of her Artificial Intelligence coursework, focusing on enhancing user interaction through Natural Language Processing (NLP) and machine learning.
+Developed three AI-driven applications as part of her Artificial Intelligence coursework, focusing on enhancing user interaction through Natural Language Processing (NLP) and machine learning.
 
 ---
 
